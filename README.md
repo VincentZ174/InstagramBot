@@ -4,7 +4,7 @@ Bot created using Python3 and Selenium that automatically cycles through posts u
 
 # Prerequisites
 - [Python3](https://www.python.org/downloads/)
-- [Selenium](https://www.pypi.org/project/requests/](https://pypi.org/project/selenium/)
+- [Selenium](https://pypi.org/project/selenium/)
 # Usage
 
 ```
